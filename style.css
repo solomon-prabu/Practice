@@ -5,3 +5,25 @@
     list-style: none;
     background-color: wheat;
 }
+body{
+    font-family: sans-serif;
+    color: darkblue;
+    size: 20;
+    margin:auto;
+    line-height-step: 1;
+}
+h1{
+    color: white;
+    align-items: center;
+    margin: 50px;
+    text-align: center;
+}
+h2{
+    color: goldenrod;
+    padding: 10px;
+    margin-left: 10px;
+}
+h3{
+    color: brown;
+    text-align:right;
+}
